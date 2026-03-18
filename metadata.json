@@ -1,0 +1,7 @@
+{
+  "name": "Ms Yatta1 Store",
+  "description": "Interactive viewer for the scalable Node.js fashion e-commerce backend architecture.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
